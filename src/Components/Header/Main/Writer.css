@@ -1,0 +1,10 @@
+.image {
+    width: 50%;
+    height: 30%;
+}
+
+.btn {
+    background-color: coral;
+    cursor: pointer;
+
+}
